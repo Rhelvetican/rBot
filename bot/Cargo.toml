@@ -6,7 +6,6 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-anyhow = "1.0.79"
 base64 = "0.21.7"
 chrono = "0.4.31"
 dlhn = "0.1.6"
