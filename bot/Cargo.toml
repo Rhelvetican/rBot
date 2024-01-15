@@ -13,3 +13,4 @@ fasteval2 = { git = "https://github.com/zeozeozeo/fasteval2.git", branch = "sqrt
 ijson = "0.1.3"
 rand = "0.8.5"
 leb128 = "0.2.5"
+ybot_fmt = { path = "ybot_fmt" }
